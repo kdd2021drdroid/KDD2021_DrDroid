@@ -7,4 +7,14 @@ layer.py can be used to store the spatial and temporal layers in the HTGT.
 
 utils.py is used for loading data.
 
-Thank you very much for reviewing our paper and we sincerely hope you stay safe and healthy during this special time!
+If you use our code, Please kindly cite our paper as following:
+
+@inproceedings{HTGT,
+  title={Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection},
+  author={Fan, Yujie  and Ju, Mingxuan and Hou, Shifu and Ye, Yanfang and Wan, Wenqiang and Wang, Kui and Mei, Yinming and Xiong, Qi},
+  booktitle={SIGKDD},
+  volume={},
+  number={},
+  pages={},
+  year={2021}
+}
